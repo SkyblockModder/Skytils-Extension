@@ -1,4 +1,4 @@
-# 🌌 Skyblock Extras | Hypixel Skyblock Mod 🔮
+# 🌌 Skytils-Extension | Hypixel Skyblock Mod 🔮
 
 Welcome to **Skyblock Extras**, your ultimate utility mod for Hypixel Skyblock!  
 Boost your gameplay, grind smarter, and explore all secrets like never before.  
